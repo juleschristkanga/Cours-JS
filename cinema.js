@@ -11,8 +11,14 @@ for (let age = 11; age <= 20; age++) {
         prix = 1500;
         billet1500++;
     }
-    else {
+    else if (age >= 16 && age <=17) 
+    {
         prix = 2500;
+        billet2500++;
+    }
+    else 
+    {
+        prix = 2500 - 500;
         billet2500++;
     }
     console.log("Age ",age, "Prix" ,prix );
