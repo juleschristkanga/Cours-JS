@@ -1,0 +1,11 @@
+Rapport des depenses de Awa 50000fcfa
+-Budget initial : 50000 fcfa
+Dépenses totales 38300 fcfa
+Budget restant : 11700 fcfa
+Budgetrespecté : Vrai
+
+Rapport des depenses de Awa avec 30000fcfa
+-Budget initial : 30000 fcfa
+Dépenses totales 38300 fcfa
+Budget restant : -8300 fcfa
+Budgetrespecté : False
