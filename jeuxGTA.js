@@ -6,7 +6,5 @@ while (gta >epagne)
 {
     epagne = epagne + epagnesemaine;
     semaine = semaine + 1;
-   
-
 }
 console.log("Vous avez faire: " + semaine+ " semaine(s) et epargné " + epagne + " fcfa");
