@@ -12,5 +12,5 @@ switch (jour)
     console.log("Bientôt le week-end");
     break;
   default:
-    console.log("Jour standard ou inconnu");
+    console.log("Ce n'est pas un jour");
 }
