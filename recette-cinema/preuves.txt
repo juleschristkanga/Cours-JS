@@ -1,4 +1,4 @@
- PS C:\Users\DELL\Desktop\COURS JS> node partie1.js
+PS C:\Users\DELL\Desktop\COURS JS\recette-cinema> node partie1.js
 Âge : 11 ans -> Prix : 1500 FCFA
 Âge : 12 ans -> Prix : 1500 FCFA
 Âge : 13 ans -> Prix : 1500 FCFA
@@ -12,14 +12,14 @@
 Recette totale : 20000 FCFA
 Billets à 1500 FCFA (moins de 16 ans) : 5
 Billets à 2500 FCFA (16 ans et plus) : 5
-PS C:\Users\DELL\Desktop\COURS JS
+
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
-PS C:\Users\DELL\Desktop\COURS JS> node partie2.js
+PS C:\Users\DELL\Desktop\COURS JS\recette-cinema> node partie1.js
 Âge : 11 ans -> Prix : 1500 FCFA
 Âge : 12 ans -> Prix : 1500 FCFA
 Âge : 13 ans -> Prix : 1500 FCFA
