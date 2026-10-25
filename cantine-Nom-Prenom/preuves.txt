@@ -1,4 +1,4 @@
-PS C:\Users\DELL\Desktop\COURS JS\cantine-Nom-Prenom> node cantine.js
+PS C:\Users\DELL\Desktop\COURS JS\cantine-Nom-Prenom> node .\cantine.js
 ===== Caisse de la cantine =====
 Client : Awa
 Plat commandé : Attiéké-poisson
