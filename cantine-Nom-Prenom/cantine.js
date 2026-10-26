@@ -23,6 +23,8 @@ switch (codePlat) {
     nomPlat = "Alloco-œuf"; // Nom du plat
     prixUnitaire = 1000;// Prix unitaire en FCFA
     break;
+    default:
+      console.log("Code de plat invalide"); // Gestion du cas où le code de plat est invalide
 }
 // ===== Récapitulatif =====
 console.log(`===== Caisse de la cantine =====`); 
