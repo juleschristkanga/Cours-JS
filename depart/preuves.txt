@@ -1,10 +1,13 @@
 J06 — Preuve d’exécution
-
 Commande réellement lancée dans Windows PowerShell :
 node .\depenses.js
 
 Sortie obtenue après avoir terminé le programme :
-[Collez ici le rapport complet, y compris le tableau avant et après le tri.]
+PS C:\Users\DELL\Desktop\COURS JS\depart> node .\depenses.js
+Dépenses de la semaine : 1500,2500,0,4000,1000,2500,3000
+Dépenses triées : 0,1000,1500,2500,2500,3000,4000
+Total des dépenses : 14500 FCFA
+Moyenne des dépenses : 2071.43 FCFA
+Grosses dépenses (> 2000 FCFA) : 2500,4000,2500,3000
+Plus grande dépense : 4000 FCFA
 
-Archive à remettre : J06_Nom_Prenom.zip
-Contenu attendu : depenses.js et preuves.txt
