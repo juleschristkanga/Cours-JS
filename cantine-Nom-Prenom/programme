@@ -1,0 +1,5 @@
+const fruits = ["Pomme", "Banane", "Orange"];
+
+fruits.forEach((element, index) => {
+  console.log(`Élément ${element} à l'indice ${index}`);
+});
