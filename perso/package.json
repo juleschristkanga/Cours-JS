@@ -1,0 +1,16 @@
+{
+  "name": "theconversion",
+  "version": "1.0.0",
+  "description": "convertir en chiffre ou en nombre",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "alias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "convertir-nombre-lettre": "^1.0.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
